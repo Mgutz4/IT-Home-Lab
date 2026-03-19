@@ -104,9 +104,10 @@ LESSONS LEARNED:
 
 SCREENSHOTS INCLUDED:
 
-* GPO_Password_Policy_Settings.png
-* Account_Lockout_Policy.png
-* GPUpdate_Force.png
-* GPResult_Verification.png
+* 02_Account_Lockout_Threshold_Enabled.png
+* 03_Password_Policy_Complexity_Enabled.png
+* 04_Password_Policy_Section_GPOe.png
+* 05_Account_Lockout_Succesful_Integration.png
+* 06_Default_Domain_Policy.png
 
 ---
